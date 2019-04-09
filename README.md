@@ -1,4 +1,4 @@
-# React Calculator Standard
+# React Calculator
 
 A calculator that provides the essential arithmetic operations, an expression builder, and a complete history of all expressions.
 
